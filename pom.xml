@@ -59,6 +59,7 @@
 
     <modules>
         <module>LearnSpring-BinaryTea</module>
+        <module>LearnSpring-Demo</module>
     </modules>
 
 </project>
