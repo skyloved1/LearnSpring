@@ -70,6 +70,7 @@
     <modules>
         <module>LearnSpring-BinaryTea</module>
         <module>LearnSpring-Demo</module>
+        <module>LearnSpring-BinaryTeaConsumer</module>
     </modules>
 
 </project>
