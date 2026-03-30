@@ -3,8 +3,8 @@
 	url = https://github.com/skyloved1/BinaryTea.git
 
 [submodule "LearnSpring-BinaryTeaConsumer"]
-    path = LearnSpring-BinaryTeaConsumer
-    url = https://github.com/skyloved1/LearnSpring-BinaryTeaConsumer.git
+	path = LearnSpring-BinaryTeaConsumer
+	url = https://github.com/skyloved1/LearnSpring-BinaryTeaConsumer.git
 
 [submodule "LearnSpring-Demo"]
     path = LearnSpring-Demo
