@@ -1,3 +1,3 @@
 [submodule "LearnSpring-BinaryTea"]
 	path = LearnSpring-BinaryTea
-	url = .\\LearnSpring-BinaryTea\\.git\\
+	url = https://github.com/skyloved1/BinaryTea.git
